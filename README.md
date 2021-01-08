@@ -7,4 +7,9 @@ add ing more stuff
 
 adding more stuff to practice pull. 
 
+<<<<<<< HEAD
 testing for conflicts in file
+=======
+
+testing again 2
+>>>>>>> main
